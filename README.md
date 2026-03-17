@@ -137,4 +137,4 @@ Placed **3rd out of the class** in the Spring 2023 Microcomputer Systems I final
 
 ## Author
 
-**Edward Serna and Rabiat Sadiq**, Computer Engineering Students, University of Texas at San Antonio, Microcomputers 1
+**Edward Serna and Rabiat Sadiq**, Computer Engineering Students, University of Texas at San Antonio
