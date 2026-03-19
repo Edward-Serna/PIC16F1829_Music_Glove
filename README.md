@@ -1,8 +1,8 @@
 # Music Glove
 
-> **Spring 2023 Microcomputer Systems I — Final Project | 🥉 3rd Place**
+> Spring 2023 Microcomputer Systems I — Final Project &  ***3rd Place***
 
-A wearable embedded music controller built around the **PIC16F1829** microcontroller. Flex sensors mounted on a glove map finger bends to musical tones, Morse code patterns, and signaling sequences — all output through a piezo buzzer with real-time serial feedback.
+A wearable embedded music controller built around the **PIC16F1829** microcontroller. Flex sensors mounted on a glove map finger bends to musical tones, Morse code patterns, and signaling sequences, all output through a piezo buzzer with real-time serial feedback.
 
 ---
 
